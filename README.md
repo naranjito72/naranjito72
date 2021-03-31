@@ -15,15 +15,15 @@
 
 :world_map: I am from and located in Barcelona.
 
-:loudspeaker: I do speak Spanish and Catalan (not big deal around here), English, Italian and I'd held myself pretty well in France. Next goal no doubt.
+:loudspeaker: I do speak Spanish and Catalan (not big deal around here), English, Italian and I'd survived in France. Next goal no doubt.
 
 :construction: "I solemnly swear that I am up to no good"
 
-  * IT ACADEMY'S Front-End [Team](https://github.com/it-academyproject/ITProject-ERP-Frontend)
+  * **IT ACADEMY'S Front-End** [Team](https://github.com/it-academyproject/ITProject-ERP-Frontend)
 
-  * The Rolling Therapists. Teaching [them](https://therollingtherapists.com) the ninja arts of WordPress.
+  * **The Rolling Therapists**. Teaching [them](https://therollingtherapists.com) the ninja arts of WordPress.
 
-  * My own [TODO](https://bcnactivarepositorio.github.io/ngAgenda/) APP
+  * My own [TODO](https://bcnactivarepositorio.github.io/ngAgenda/) **APP**.
 
 :seedling: Actively engaged with TypeScript & Angular
 
@@ -41,7 +41,7 @@
 
 ***
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranjito72)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranjito72;show_icons=true&amp;hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
