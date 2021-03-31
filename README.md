@@ -39,7 +39,7 @@
   * :floppy_disk: **DESIGN & WEB DEVELOPER** (2018)
   @CEUS SCHOOL [FORUM](http://www.academiaceus.com/centres/forum)
 
-|-----------------------------------------------------------------------------------------------------------------|
+***
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranjito72)](https://github.com/anuraghazra/github-readme-stats)
 
