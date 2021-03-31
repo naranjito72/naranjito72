@@ -27,18 +27,8 @@
   * :floppy_disk: **DESIGN & WEB DEVELOPER** (2018)
   @CEUS SCHOOL [FORUM](http://www.academiaceus.com/centres/forum)
 
-#### Skills
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
 
-<div>
-<p style="height:5px, width:80%, background-color: #333"></p>
-</div>
 
 
 
