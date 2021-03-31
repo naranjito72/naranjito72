@@ -1,13 +1,13 @@
 ### Hello :wave:, I'm Robert Garcia
 
   * :technologist: I am **your** next front-end.
-  * Self-taugh Junior Developer.
-  * Committed to make an IT career.
+  * :books: Self-taugh Junior Developer.
+  * :point_right: Committed to make an IT career.
   * :heart: Love programming and layouts.
-  * UI | UX enthusiastic.
-  * resilliance researcher
-  * OOP and clean code as a goal.
-  *
+  * :bellhop_bell: UI | UX enthusiastic.
+  * :goggles: Resilliance researcher
+  *  :star: OOP and clean code as a goal.
+  
 
 
 <!--
