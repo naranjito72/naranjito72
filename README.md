@@ -37,7 +37,7 @@
 </dl>
 
 <div>
-<div style="height:5px, width:80%, background-color: #333"></div>
+<p style="height:5px, width:80%, background-color: #333"></p>
 </div>
 
 
