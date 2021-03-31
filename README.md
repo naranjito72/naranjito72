@@ -13,10 +13,22 @@
 
 ### About me
 
-  I am a self-taught Front-End Developer. Came almost naturally. I'd been always attracted by image, design and arts. I studied photography at the [IEFC](https://www.iefc.cat/es/). Design came after at [Groc](https://groc.cat/es/) school.
-  After years at [Wagamama](https://www.wagamama.ie/?utm_source=maps&utm_medium=king-street-south&utm_campaign=gmb) and [Hard Rock](https://www.hardrockcafe.com/location/barcelona/es/) (where I've learnt many, many skills) I decided that it was time to achieve an old goal of mine: become a web designer... and programming got in the middle, and so pleased it did!
+:world_map: I am from and located in Barcelona.
 
-### Knowledge
+:loudspeaker: I do speak Spanish and Catalan (not big deal around here), English, Italian and I'd held myself pretty well in France. Next goal no doubt.
+
+:construction: "I solemnly swear that I am up to no good"
+
+  * IT ACADEMY'S Front-End [Team](https://github.com/it-academyproject/ITProject-ERP-Frontend)
+
+  * The Rolling Therapists. Teaching [them](https://therollingtherapists.com) the ninja arts of WordPress.
+
+  * My own [TODO](https://bcnactivarepositorio.github.io/ngAgenda/) APP
+
+:seedling: Actively engaged with TypeScript & Angular
+
+
+### Courses
 
  * :desktop_computer: **FRONT-END** (2020-2021)
   @ITACADEMY [Cybernarium](https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1053827)
@@ -27,6 +39,7 @@
   * :floppy_disk: **DESIGN & WEB DEVELOPER** (2018)
   @CEUS SCHOOL [FORUM](http://www.academiaceus.com/centres/forum)
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?naranjito72=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
