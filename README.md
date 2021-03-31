@@ -1,6 +1,5 @@
 ### Hello :wave:, I'm Robert Garcia
-<main>
-<article style="background-color: #333">
+
   * :technologist: I am **your** next front-end.
   * :books: Self-taugh Junior Developer.
   * :point_right: Committed to make an IT career.
@@ -8,8 +7,7 @@
   * :bellhop_bell: UI | UX enthusiastic.
   * :goggles: Resilliance researcher
   *  :star: OOP and clean code as a goal.
-  </article>
-  </main>
+  
 
 
 <!--
