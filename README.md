@@ -8,16 +8,18 @@
   * :goggles: Resilience researcher
   *  :star: OOP and clean code as a goal.
 
+***
 
   This is *not* a CV but a small presentation, an introduction to myself and a portfolio of sorts. So let's begin.
 
+***
 ### About me
 
 :world_map: I am from and located in Barcelona.
 
 :loudspeaker: I do speak Spanish and Catalan (not big deal around here), English, Italian and I'd survived in France. Next goal no doubt.
 
-:construction: "I solemnly swear that I am up to no good"
+:construction: *"I solemnly swear that I am up to no good"*
 
   * **IT ACADEMY'S Front-End** [Team](https://github.com/it-academyproject/ITProject-ERP-Frontend)
 
@@ -25,8 +27,10 @@
 
   * My own [TODO](https://bcnactivarepositorio.github.io/ngAgenda/) **APP**.
 
-:seedling: Actively engaged with TypeScript & Angular
+***
+:seedling: Actively engaged with **TypeScript** & **Angular**
 
+***
 
 ### Courses
 
