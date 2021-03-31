@@ -21,6 +21,8 @@
  * :desktop_computer: **FRONT-END** (2020-2021)
   @ITACADEMY [Cybernarium](https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1053827)
 
+  * **SUBJECTS**
+
  * :dart: **MEAN-STACK** (2019)
   @LAVIOLETA [CIFO](https://serveiocupacio.gencat.cat/es/soc/centres-dinnovacio-i-formacio-ocupacional-cifo/CIFO-de-Barcelona-La-Violeta/Oferta-formativa/index.html)
 
