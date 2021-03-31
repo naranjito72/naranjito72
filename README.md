@@ -7,9 +7,9 @@
   * :bellhop_bell: UI | UX enthusiastic.
   * :goggles: Resilliance researcher
   *  :star: OOP and clean code as a goal.
-  
 
 
+  This is *not* a CV but a small presentation, an introduction to myself and a portfolio of sorts. 
 <!--
 **naranjito72/naranjito72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #### who I am
