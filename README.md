@@ -30,10 +30,24 @@
 
 ### The things "*I*" do for love.
 
- > *The storyboard department doesn't talk to the layout department, which doesn't talk to the writing department. They're all jealous of each other*
- > - (Vince Vaughn)
+ > "*If you think math is hard, try web design.*"
+ >  (Trish Parr)
 
-<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/html.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/css.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="60">
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/html.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/css.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/flexbox.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/sass.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/bootstrap.png" height="60">
+
+> "*All programmers get better with age. The more you type, the better you are going to get.*"
+>  [(John Kricfalusi)](https://www.brainyquote.com/quotes/john_kricfalusi_367007)
+
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/typescript.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/angular.png" height="60">
+
+> "*There is a lot of back end work in programming that the clients never see!.*"
+
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mongodb.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/express.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mysql.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/leaflet.png" height="60">
+
+> "*Make it simple, but significant*"
+> (Don Draper)
+
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/git.png" height="60">
 
 
 ***
