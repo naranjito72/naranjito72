@@ -42,7 +42,7 @@
 
 > "*There is a lot of back end work in programming that the clients never see!.*"
 
-   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mongodb.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/express.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mysql.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/leaflet.png" height="50">
+   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mongodb.png" height="65">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/express.png" height="65">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mysql.png" height="65">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/leaflet.png" height="65">
 
 > "*Make it simple, but significant*"
 > (Don Draper)
