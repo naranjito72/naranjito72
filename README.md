@@ -38,7 +38,7 @@
 > "*All programmers get better with age. The more you type, the better you are going to get.*"
 >  [(John Kricfalusi)](https://www.brainyquote.com/quotes/john_kricfalusi_367007)
 
-   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/typescript.png" height="30">   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/angular.png" height="50">
+   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/typescript.png" height="50">   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/angular.png" height="50">
 
 > "*There is a lot of back end work in programming that the clients never see!.*"
 
