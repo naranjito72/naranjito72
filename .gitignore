@@ -40,8 +40,10 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
-.psd
 
 # System Files
 .DS_Store
 Thumbs.db
+
+# Photoshop
+/img/*.psd
