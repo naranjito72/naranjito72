@@ -27,9 +27,15 @@
 
 :seedling: Actively engaged with **TypeScript** & **Angular**
 
+
+### The things *I* do for love.
+
+![HTML](https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/html.png)
+![CSS](https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/css.png)
+
 ***
 
-### Courses
+### IT Education
 
  * :desktop_computer: **FRONT-END** (2020-2021)
   @ITACADEMY [Cybernarium](https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1053827)
