@@ -30,10 +30,10 @@
 
 ### The things "*I*" do for love.
 
-<quote>*The storyboard department doesn't talk to the layout department, which doesn't talk to the writing department. They're all jealous of each other*</quote>
-                                                                                                                                       (Vince Vaughn)
-                                                                                                                                       
-<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/html.png" height="30"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/css.png" height="30"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="30"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="30">
+ > *The storyboard department doesn't talk to the layout department, which doesn't talk to the writing department. They're all jealous of each other*
+ > - (Vince Vaughn)
+
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/html.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/css.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="60"><img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="60">
 
 
 ***
