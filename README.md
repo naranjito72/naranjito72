@@ -1,4 +1,4 @@
-### Hello :wave:, I'm Robert Garcia
+### Hello :wave:, I'm Robert Garcia {style= text-align.center}
 
   * :technologist: I am **your** next front-end.
   * :books: Self-taught Junior Developer.
@@ -29,7 +29,7 @@
 
 
 ### The things "*I*" do for love.
-<center>
+
  > "*If you think math is hard, try web design.*"
  >  (Trish Parr)
 
@@ -49,7 +49,7 @@
 
    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/git.png" height="50">
 
-</center>
+
 ***
 
 ### IT Education
