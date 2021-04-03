@@ -119,7 +119,7 @@ but then, how would you, dear next boss, know if I am improving?. So there it is
 
 :mailbox_with_mail: **theclick36@gmail.com**
 
-<i class="fa fa-linkedin" aria-hidden="true">https://www.linkedin.com/in/theclick36/</i>
+:briefcase: [Linkedin](https://www.linkedin.com/in/theclick36/)
 
 
 <!--
