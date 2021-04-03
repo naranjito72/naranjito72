@@ -96,7 +96,9 @@ My first thought:
 
 -"*place only the best repositories!*"-
 
-but then, how would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the bad and the Ugly*. I now is risky, as it is not what people expects to see these days, but is all part of the way. Alas, in [**here**](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression, but feel free to explore all my repositories. if you are a technician, you will understand the code. There are defeats and victories, consoles to check and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: in all of them.
+but then: How would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the Bad and the Ugly*.
+
+Risky, as it is not what most people expects to see these days, but is all part of the learning curve. Alas, in [**here**](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression. Feel free to explore all my repositories. If you are a technician, you'll understand the code. There are defeats and victories, consoles and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: in all of them.
 
 ***
 
