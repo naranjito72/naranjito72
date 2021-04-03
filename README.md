@@ -58,32 +58,32 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads
 
-Basic [html & css](https://bcnactivarepositorio.github.io/Basic_Css/)
+Basic [**Html & Css**](https://bcnactivarepositorio.github.io/Basic_Css/)
 
-Some [Grid](https://bcnactivarepositorio.github.io/grid_3/)
+Some [**Grid**](https://bcnactivarepositorio.github.io/grid_3/)
 
-Add some [Flexbox](https://bcnactivarepositorio.github.io/mcBootstrap/)... Yes, I got better than that! have a [look](https://toursbyme.github.io/exercise_flex/)
+Add some [**Flexbox**](https://bcnactivarepositorio.github.io/mcBootstrap/)... Yes, I got better than that! have a [look](https://toursbyme.github.io/exercise_flex/)
 
-And yes, **I** also reached **THE** level [24](https://github.com/ToursByMe/level24_froggy)!!*N.of A.(A geek joke for developers!)*
+And yes, **I** also reached **THE** level [**24**](https://github.com/ToursByMe/level24_froggy)!!*N.of A.(A geek joke for developers!)*
 
-I try to place all together, and it didn't happened as expected, so float still a good friend to [look](https://toursbyme.github.io/spotify_exercise/) at.
+I try to place all together, and it didn't happened as expected, so float still a good friend to [**look**](https://toursbyme.github.io/spotify_exercise/) at.
 
-Most definitely, Bootstrap can be of great help from the [scratch](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from a [template](https://bcnactivarepositorio.github.io/templateBootstrap/)
+Most definitely, Bootstrap can be of great help from the [**scratch**](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from a [**template**](https://bcnactivarepositorio.github.io/templateBootstrap/)
 
-But I keep learning the basics, such as CSS, in order to place your bones behind [bars](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [planes](https://toursbyme.github.io/planes/)
+But I keep learning the basics, such as CSS, in order to place your bones behind [**bars**](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [**planes**](https://toursbyme.github.io/planes/)
 
 >“Where is click, there it is JavaScript.”
 >(Omar Montes del Rio)
 
-Yes, we all start with [alerts](https://toursbyme.github.io/basicJavaScriptBcnActiva/#), been messy and making no sense at all.
+Yes, we all start with [**alerts**](https://toursbyme.github.io/basicJavaScriptBcnActiva/#), been messy and making no sense at all.
 
-Then things start to get a bit less messy...Wanna know your Zodiac [sign](https://bcnactivarepositorio.github.io/signOfStars/)?
+Then things start to get a bit less messy...Wanna know your Zodiac [**sign**](https://bcnactivarepositorio.github.io/signOfStars/)?
 
-Well, if you like it, give us some [stars](https://toursbyme.github.io/howManyHearts-/)
+Well, if you like it, give us some [**stars**](https://toursbyme.github.io/howManyHearts-/)
 
-[**OOP**](https://en.wikipedia.org/wiki/Object-oriented_programming) comes after algorithm. I am not the best person to give you a theoretical  of it, better and brighter people around the globe do, but I can show  **you** how to start to interact with [it](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
+[**OOP**](https://en.wikipedia.org/wiki/Object-oriented_programming) comes after algorithm. I am not the best person to give you a theoretical  of it, better and brighter people around the globe do, but I can show  **you** how to start to interact with [**it**](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
 
-I do know what Angular is. *"Prove it Robert!"* Of course. [Cinemas](https://naranjito72.github.io/hace-un-cine/movies) get all my attention, but we can always improve a [bit](https://bcnactivarepositorio.github.io/ngAgenda/)*
+I do know what Angular is. *"Prove it Robert!"* Of course. [**Cinemas**](https://naranjito72.github.io/hace-un-cine/movies) get all my attention, but we can always improve a [**bit**](https://bcnactivarepositorio.github.io/ngAgenda/)*
 
 *To technicians and developers: those are Angular apps, and yes, they've been deployed but not in Firebase. So extra point, isn't? :wink:
 
@@ -96,7 +96,7 @@ My first thought:
 
 -"*place only the best repositories!*"-
 
-but then, how would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the bad and the Ugly*. I now is risky, as it is not what people expects to see these days, but is all part of the way. Alas, in [here](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression, but feel free to explore all my repositories. if you are a technician, you will understand the code. There are defeats and victories, consoles to check and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: in all of them.
+but then, how would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the bad and the Ugly*. I now is risky, as it is not what people expects to see these days, but is all part of the way. Alas, in [**here**](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression, but feel free to explore all my repositories. if you are a technician, you will understand the code. There are defeats and victories, consoles to check and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: in all of them.
 
 ***
 
@@ -121,7 +121,7 @@ but then, how would you, dear next boss, know if I am improving?. So there it is
 
 :mailbox_with_mail: **theclick36@gmail.com**
 
-:briefcase: [Linkedin](https://www.linkedin.com/in/theclick36/)
+:briefcase: [**Linkedin**](https://www.linkedin.com/in/theclick36/)
 
 
 <!--
