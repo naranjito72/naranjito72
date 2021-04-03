@@ -81,17 +81,20 @@ Well, if you like it, give us some [stars](https://toursbyme.github.io/howManyHe
 
 Then [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) comes. I am not the right person to give you a theoretical  of it, better and brighter people around the globe do, but I can show how **you** can start to interact with [it](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
 
+And yes, I do know, at least, what Angular is. Prove it Robert! Yep, not a bother. [Cinemas](https://naranjito72.github.io/hace-un-cine/movies) get all my attention, but we can always improve a [bit](https://bcnactivarepositorio.github.io/ngAgenda/)*
+
+*To technicians and developers: yep, those are Angular apps, and yes, they've been deployed but not in Firebase. So extra point, isn't? :wink:
 
 ### A word to developers
 
 >“It’s through mistakes that you actually can grow. You have to get bad in order to get good.”
 >(Paula Scher)
 
-At first I thought:
+My first thought:
 
 -"*place only the best repositories!*"-
 
-but then, how would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the bad and the Ugly*. I now is risky, as is not what people expects to see these days, but is all part of the way. Alas, in [here](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression, but feel free to explore all my repositories. if you are a technician, you will understand the code. There are defeats and victories, consoles to check and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: for something, :computer:, in all of them.
+but then, how would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the bad and the Ugly*. I now is risky, as it is not what people expects to see these days, but is all part of the way. Alas, in [here](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression, but feel free to explore all my repositories. if you are a technician, you will understand the code. There are defeats and victories, consoles to check and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: in all of them.
 
 ### IT Education
 
