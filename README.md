@@ -115,13 +115,14 @@ but then, how would you, dear next boss, know if I am improving?. So there it is
 
 ***
 
+### Contact Me
 
 <div align="center">
-### Contact Me
+:mailbox_with_mail: theclick36@gmail.com
 </div>
 
 <div align="center">
-:telephone: +34 622 06 45 38                          :mailbox_with_mail: theclick36@gmail.com
+:telephone: +34 622 06 45 38
 </div>
 
 
