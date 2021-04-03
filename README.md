@@ -30,34 +30,52 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 ### The things "*I*" do for love.
 
- > "*If you think math is hard, try web design.*"
+ > "If you think math is hard, try web design."
  >  (Trish Parr)
 
-<div align="center;">
-   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/html.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/css.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/flexbox.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/sass.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/bootstrap.png" height="50">
-</div>
+   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/html.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/css.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/flexbox.png" height="50">       <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/sass.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/bootstrap.png" height="50">
 
-> "*All programmers get better with age. The more you type, the better you are going to get.*"
+> "All programmers get better with age. The more you type, the better you are going to get."
 >  [(John Kricfalusi)](https://www.brainyquote.com/quotes/john_kricfalusi_367007)
 
-<div align="center;">
    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/typescript.png" height="50">   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/angular.png" height="50">
-</div>
 
 > "*There is a lot of back end work in programming that the clients never see!.*"
 
-<div align="center;">
    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mongodb.png" height="65">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/express.png" height="65">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mysql.png" height="65">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/leaflet.png" height="65">
-</div>
 
-> "*Make it simple, but significant*"
+> "Make it simple, but significant"
 > (Don Draper)
 
-<div align="center;">
    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/git.png" height="50">
-</div>
+
 
 ***
+### A link of help to recruiters
+
+>“Recruiting is not an exact science.”
+>(Will Muschamp)
+
+IT recruiters are often regarded by the programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads
+
+    * Basic [html & css](https://bcnactivarepositorio.github.io/Basic_Css/)
+    * Some [Grid](https://bcnactivarepositorio.github.io/grid_3/)
+    * Add some [Flexbox](https://bcnactivarepositorio.github.io/mcBootstrap/)... Yes, I got better than that! have a [look](https://toursbyme.github.io/exercise_flex/)
+    * Then you try to place all together, and it doesn't happened as expected, so float still a good friend to [look](https://toursbyme.github.io/spotify_exercise/) at.
+    * Most definitely, Bootstrap can be of great from the [scratch](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from a [template](https://bcnactivarepositorio.github.io/templateBootstrap/)
+    * But still learning the basics, such as CSS, can place your bones behind [bars](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [stars](https://toursbyme.github.io/howManyHearts-/)
+    * Wanna know your Zodiac [sign]()
+Then [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) comes. I am not the right person to give you a theoretical  of it, better and brighter people around the globe do, but I can show how **you** can start to interact with it.
+
+
+### A word to developers
+
+>“It’s through mistakes that you actually can grow. You have to get bad in order to get good.”
+>(Paula Scher)
+
+At first I thought
+-"*place only the best repositories!*"-
+but then, how would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the bad and the Ugly*. I now is risky, as is not what people expects to see these days, but is all part of the way. Alas, in [here](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression.
 
 ### IT Education
 
@@ -74,6 +92,7 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranjito72&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+***
 
 
 
