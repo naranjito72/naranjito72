@@ -58,13 +58,14 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 IT recruiters are often regarded by the programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads
 
-    * Basic [html & css](https://bcnactivarepositorio.github.io/Basic_Css/)
-    * Some [Grid](https://bcnactivarepositorio.github.io/grid_3/)
-    * Add some [Flexbox](https://bcnactivarepositorio.github.io/mcBootstrap/)... Yes, I got better than that! have a [look](https://toursbyme.github.io/exercise_flex/)
-    * Then you try to place all together, and it doesn't happened as expected, so float still a good friend to [look](https://toursbyme.github.io/spotify_exercise/) at.
-    * Most definitely, Bootstrap can be of great from the [scratch](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from a [template](https://bcnactivarepositorio.github.io/templateBootstrap/)
-    * But still learning the basics, such as CSS, can place your bones behind [bars](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [stars](https://toursbyme.github.io/howManyHearts-/)
-    * Wanna know your Zodiac [sign]()
+Basic [html & css](https://bcnactivarepositorio.github.io/Basic_Css/)
+Some [Grid](https://bcnactivarepositorio.github.io/grid_3/)
+Add some [Flexbox](https://bcnactivarepositorio.github.io/mcBootstrap/)... Yes, I got better than that! have a [look](https://toursbyme.github.io/exercise_flex/)
+Then you try to place all together, and it doesn't happened as expected, so float still a good friend to [look](https://toursbyme.github.io/spotify_exercise/) at.
+Most definitely, Bootstrap can be of great from the [scratch](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from a [template](https://bcnactivarepositorio.github.io/templateBootstrap/)
+But still learning the basics, such as CSS, can place your bones behind [bars](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [stars](https://toursbyme.github.io/howManyHearts-/)
+Wanna know your Zodiac [sign](https://bcnactivarepositorio.github.io/signOfStars/)
+
 Then [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) comes. I am not the right person to give you a theoretical  of it, better and brighter people around the globe do, but I can show how **you** can start to interact with it.
 
 
