@@ -17,7 +17,7 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 :loudspeaker: I do speak Spanish and Catalan (not big deal around here), English, Italian and I'd survived in France. Next goal no doubt.
 
-:construction: *"I solemnly swear that I am up to no good"*
+:construction: I am currently working on and *"I solemnly swear that I am up to no good"*.
 
   * **IT ACADEMY'S Front-End** [Team](https://github.com/it-academyproject/ITProject-ERP-Frontend)
 
@@ -96,6 +96,8 @@ My first thought:
 
 but then, how would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the bad and the Ugly*. I now is risky, as it is not what people expects to see these days, but is all part of the way. Alas, in [here](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression, but feel free to explore all my repositories. if you are a technician, you will understand the code. There are defeats and victories, consoles to check and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: in all of them.
 
+***
+
 ### IT Education
 
  * :desktop_computer: **FRONT-END** (2020-2021)
@@ -114,6 +116,13 @@ but then, how would you, dear next boss, know if I am improving?. So there it is
 ***
 
 
+<div align="center">
+### Contact Me
+</div>
+
+<div align="center">
+:telephone: +34 622 06 45 38                          :mailbox_with_mail: theclick36@gmail.com
+</div>
 
 
 <!--
