@@ -81,7 +81,7 @@ Then things start to get a bit less messy...Wanna know your Zodiac [sign](https:
 
 Well, if you like it, give us some [stars](https://toursbyme.github.io/howManyHearts-/)
 
-**[OOP]**(https://en.wikipedia.org/wiki/Object-oriented_programming) comes after algorithm. I am not the best person to give you a theoretical  of it, better and brighter people around the globe do, but I can show  **you** how to start to interact with [it](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
+[**OOP**](https://en.wikipedia.org/wiki/Object-oriented_programming) comes after algorithm. I am not the best person to give you a theoretical  of it, better and brighter people around the globe do, but I can show  **you** how to start to interact with [it](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
 
 I do know what Angular is. *"Prove it Robert!"* Of course. [Cinemas](https://naranjito72.github.io/hace-un-cine/movies) get all my attention, but we can always improve a [bit](https://bcnactivarepositorio.github.io/ngAgenda/)*
 
