@@ -29,7 +29,7 @@
 
 
 ### The things "*I*" do for love.
-
+<center>
  > "*If you think math is hard, try web design.*"
  >  (Trish Parr)
 
@@ -49,7 +49,7 @@
 
    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/git.png" height="50">
 
-
+</center>
 ***
 
 ### IT Education
