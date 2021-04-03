@@ -9,7 +9,7 @@
   *  :star: OOP and clean code as a goal.
 
 
-  <p style="text-align:center;">This is *not* a CV but a small presentation, an introduction to myself and a portfolio of sorts. So let's begin.</p>
+  <div align="center"> <span style="color:gray;"> This is *not* a CV but a small presentation, an introduction to myself and a portfolio of sorts. So let's begin. </span></div>
 
 ### About me
 
