@@ -56,23 +56,30 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 >“Recruiting is not an exact science.”
 >(Will Muschamp)
 
-IT recruiters are often regarded by the programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads
+IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads
 
-Basic [html & css](https://bcnactivarepositorio.github.io/Basic_Css/)3
+Basic [html & css](https://bcnactivarepositorio.github.io/Basic_Css/)
 
 Some [Grid](https://bcnactivarepositorio.github.io/grid_3/)
 
 Add some [Flexbox](https://bcnactivarepositorio.github.io/mcBootstrap/)... Yes, I got better than that! have a [look](https://toursbyme.github.io/exercise_flex/)
-
+And yes, **I** also reached **THE** level [24](https://github.com/ToursByMe/level24_froggy)!!
 Then you try to place all together, and it doesn't happened as expected, so float still a good friend to [look](https://toursbyme.github.io/spotify_exercise/) at.
 
 Most definitely, Bootstrap can be of great from the [scratch](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from a [template](https://bcnactivarepositorio.github.io/templateBootstrap/)
 
-But still learning the basics, such as CSS, can place your bones behind [bars](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [stars](https://toursbyme.github.io/howManyHearts-/)
+But still learning the basics, such as CSS, can place your bones behind [bars](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [planes](https://toursbyme.github.io/planes/)
 
-Wanna know your Zodiac [sign](https://bcnactivarepositorio.github.io/signOfStars/)
+>“Where is click, there it is JavaScript.”
+>(Omar Montes del Rio)
 
-Then [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) comes. I am not the right person to give you a theoretical  of it, better and brighter people around the globe do, but I can show how **you** can start to interact with it.
+Yep, we all start with [alerts](https://toursbyme.github.io/basicJavaScriptBcnActiva/#), been messy and making no sense at all.
+
+Then things start to get a bit less messy...Wanna know your Zodiac [sign](https://bcnactivarepositorio.github.io/signOfStars/)?
+
+Well, if you like it, give us some [stars](https://toursbyme.github.io/howManyHearts-/)
+
+Then [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) comes. I am not the right person to give you a theoretical  of it, better and brighter people around the globe do, but I can show how **you** can start to interact with [it](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
 
 
 ### A word to developers
@@ -80,9 +87,11 @@ Then [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) comes. I a
 >“It’s through mistakes that you actually can grow. You have to get bad in order to get good.”
 >(Paula Scher)
 
-At first I thought
+At first I thought:
+
 -"*place only the best repositories!*"-
-but then, how would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the bad and the Ugly*. I now is risky, as is not what people expects to see these days, but is all part of the way. Alas, in [here](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression.
+
+but then, how would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the bad and the Ugly*. I now is risky, as is not what people expects to see these days, but is all part of the way. Alas, in [here](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression, but feel free to explore all my repositories. if you are a technician, you will understand the code. There are defeats and victories, consoles to check and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: for something, :computer:, in all of them.
 
 ### IT Education
 
