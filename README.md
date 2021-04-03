@@ -1,4 +1,4 @@
-### Hello :wave:, I'm Robert Garcia {style= text-align.center}
+### Hello :wave:, I'm Robert Garcia
 
   * :technologist: I am **your** next front-end.
   * :books: Self-taught Junior Developer.
@@ -9,7 +9,7 @@
   *  :star: OOP and clean code as a goal.
 
 
-  This is *not* a CV but a small presentation, an introduction to myself and a portfolio of sorts. So let's begin.
+  <p style="text-align:center;">This is *not* a CV but a small presentation, an introduction to myself and a portfolio of sorts. So let's begin.</p>
 
 ### About me
 
