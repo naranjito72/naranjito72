@@ -9,7 +9,7 @@
   *  :star: OOP and clean code as a goal.
 
 
-  <div align="center">  This is **not** a CV but a small presentation, an introduction to myself and a portfolio of sorts. So let's begin. </div>
+This is *not* a CV but a small presentation, an introduction to myself and a portfolio of sorts. So let's begin.
 
 ### About me
 
@@ -33,22 +33,29 @@
  > "*If you think math is hard, try web design.*"
  >  (Trish Parr)
 
+<div align="center;">
    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/html.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/css.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/flexbox.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/sass.png" height="50">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/bootstrap.png" height="50">
+</div>
 
 > "*All programmers get better with age. The more you type, the better you are going to get.*"
 >  [(John Kricfalusi)](https://www.brainyquote.com/quotes/john_kricfalusi_367007)
 
+<div align="center;">
    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/js.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/typescript.png" height="50">   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/angular.png" height="50">
+</div>
 
 > "*There is a lot of back end work in programming that the clients never see!.*"
 
+<div align="center;">
    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mongodb.png" height="65">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/express.png" height="65">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mysql.png" height="65">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/leaflet.png" height="65">
+</div>
 
 > "*Make it simple, but significant*"
 > (Don Draper)
 
+<div align="center;">
    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/git.png" height="50">
-
+</div>
 
 ***
 
