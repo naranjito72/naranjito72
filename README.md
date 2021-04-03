@@ -118,6 +118,7 @@ Risky, as it is not what most people expects to see these days, but is all part 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranjito72&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naranjito72&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+*Stats courtesy of* [*Anuraghazra*](https://github.com/anuraghazra/github-readme-stats)
 ***
 
 ### Contact Me
