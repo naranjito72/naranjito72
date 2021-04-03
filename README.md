@@ -62,9 +62,9 @@ Basic [**Html & Css**](https://bcnactivarepositorio.github.io/Basic_Css/)
 
 Some [**Grid**](https://bcnactivarepositorio.github.io/grid_3/)
 
-Add some [**Flexbox**](https://bcnactivarepositorio.github.io/mcBootstrap/)... Yes, I got better than that! have a [look](https://toursbyme.github.io/exercise_flex/)
+Add some [**Flexbox**](https://bcnactivarepositorio.github.io/mcBootstrap/)... Yes, I got better than that! have a [**look**](https://toursbyme.github.io/exercise_flex/)
 
-And yes, **I** also reached **THE** level [**24**](https://github.com/ToursByMe/level24_froggy)!!*N.of A.(A geek joke for developers!)*
+And yes, **I** also reached **THE** level [**24**](https://github.com/ToursByMe/level24_froggy)!!  *N.of A.(A geek joke for developers!)*
 
 I try to place all together, and it didn't happened as expected, so float still a good friend to [**look**](https://toursbyme.github.io/spotify_exercise/) at.
 
