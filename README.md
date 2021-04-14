@@ -66,11 +66,11 @@ Some [**Grid**](https://bcnactivarepositorio.github.io/grid_3/)
 
   * *Technologies used*: *HTML, CSS & GRID*.
 
-Add some [**Flexbox**](https://toursbyme.github.io/exercise_flex/)
+Add some [**Flexbox**](https://toursbyme.github.io/exercise_flex/), way better than [**this**](https://bcnactivarepositorio.github.io/mcBootstrap/)!
 
   * *Technologies used*: *HTML, CSS & FLEXBOX*.
 
-way better than [**this**](https://bcnactivarepositorio.github.io/mcBootstrap/)
+
 
 And yes, **I** also reached **THE** level [**24**](https://github.com/ToursByMe/level24_froggy)!!  *N.of A.(A geek joke for developers!)*
 
