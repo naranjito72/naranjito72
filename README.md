@@ -56,7 +56,7 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 >“Recruiting is not an exact science.”
 >(Will Muschamp)
 
-IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads.
+IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads. I cataloged the technologies used in every link, so you could skip whichever doesn't fit your needs.
 
 Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/).
 
@@ -72,9 +72,9 @@ Add some [**Flexbox**](https://toursbyme.github.io/exercise_flex/), way better t
 
 
 
-And yes, **I** also reached **THE** top level of [**FlexBox Froggy**](https://flexboxfroggy.com/) and [**here**](https://github.com/ToursByMe/level24_froggy) is my solution!!  *N.of A.(A geek joke for developers!)*.
+Yeap, **I** also reached **THE** top level of [**FlexBox Froggy**](https://flexboxfroggy.com/) and [**here**](https://github.com/ToursByMe/level24_froggy) is my solution!!  *N.of A.(A geek joke for developers!)*.
 
-I'd tried to place it all together for the first time, [**look**](https://toursbyme.github.io/spotify_exercise/).
+All came together for the first time, [**look**](https://toursbyme.github.io/spotify_exercise/).
 
   * *Technologies used*: *HTML, CSS & FLEXBOX*.
 
@@ -82,23 +82,33 @@ Bootstrap is a great tool, either from the [**scratch**](https://toursbyme.githu
 
   * *Technologies used*: *HTML, CSS & BOOTSTRAP*.
 
-But I keep learning the basics, such as CSS, in order to place your bones behind [**bars**](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [**planes**](https://toursbyme.github.io/planes/).
+But I should not forget the basics, such as CSS, in order to place your bones behind [**bars**](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [**planes**](https://toursbyme.github.io/planes/).
 
   * *Technologies used*: *HTML, CSS & (TRANSFORM & ANIMATION)*.
 
 >“Where is click, there it is JavaScript.”
 >(Omar Montes del Rio)
 
-Yes, we all start with [**alerts**](https://toursbyme.github.io/basicJavaScriptBcnActiva/#), been messy and making no sense at all.
+Indeed, we all start with [**alerts**](https://toursbyme.github.io/basicJavaScriptBcnActiva/#), been messy and making no sense at all.
+
+  * *Technologies used*: *HTML, BOOTSTRAP & JAVASCRIPT*.
 
 Then things start to get a bit less messy...Wanna know your Zodiac [**sign**](https://bcnactivarepositorio.github.io/signOfStars/)?
 
-Well, if you like it, give us some [**stars**](https://toursbyme.github.io/howManyHearts-/)
+  * *Technologies used*: *HTML, BOOTSTRAP & JAVASCRIPT*.
 
-[**OOP**](https://en.wikipedia.org/wiki/Object-oriented_programming) comes after algorithm. I am not the best person to give you a theoretical  of it, better and brighter people around the globe do, but I can show  **you** how to start to interact with [**it**](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
+If you liked what you saw until now, give us some [**stars**](https://toursbyme.github.io/howManyHearts-/).
+
+  * *Technologies used*: *HTML, BOOTSTRAP, SASS & JAVASCRIPT*.
+
+[**OOP**](https://en.wikipedia.org/wiki/Object-oriented_programming) comes after algorithm. I am not the best person to give you a theoretical lecture of it, better and brighter people around the globe do, but I can show  **you** how to start to interact with [**it**](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
+
+  * *Technologies used*: *HTML, BOOTSTRAP & TYPESCRIPT*.
 
 I do know what Angular is. *"Prove it Robert!"* Of course. [**Cinemas**](https://naranjito72.github.io/hace-un-cine/movies) get all my attention, but we can always improve a [**bit**](https://bcnactivarepositorio.github.io/ngAgenda/)*
 
+  * *Technologies used*: *HTML, SCSS, BOOTSTRAP, TYPESCRIPT & ANGULAR*.
+  
 *To technicians and developers: those are Angular apps, and yes, they've been deployed but not in Firebase. So extra point, isn't? :wink:
 
 ### A word to developers
