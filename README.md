@@ -58,11 +58,11 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads.
 
-Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/)
+Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/).
 
   * *Technologies used*: *HTML & CSS*.
 
-Some [**Grid**](https://bcnactivarepositorio.github.io/grid_3/)
+Some [**Grid**](https://bcnactivarepositorio.github.io/grid_3/).
 
   * *Technologies used*: *HTML, CSS & GRID*.
 
@@ -72,13 +72,19 @@ Add some [**Flexbox**](https://toursbyme.github.io/exercise_flex/), way better t
 
 
 
-And yes, **I** also reached **THE** level [**24**](https://github.com/ToursByMe/level24_froggy)!!  *N.of A.(A geek joke for developers!)*
+And yes, **I** also reached **THE** top level of [**FlexBox Froggy**](https://flexboxfroggy.com/) and [**here**](https://github.com/ToursByMe/level24_froggy) is my solution!!  *N.of A.(A geek joke for developers!)*.
 
-I try to place all together, and it didn't happened as expected, so float still a good friend to [**look**](https://toursbyme.github.io/spotify_exercise/) at.
+I'd tried to place it all together for the first time, [**look**](https://toursbyme.github.io/spotify_exercise/).
 
-Most definitely, Bootstrap can be of great help from the [**scratch**](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from a [**template**](https://bcnactivarepositorio.github.io/templateBootstrap/)
+  * *Technologies used*: *HTML, CSS & FLEXBOX*.
 
-But I keep learning the basics, such as CSS, in order to place your bones behind [**bars**](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [**planes**](https://toursbyme.github.io/planes/)
+Bootstrap is a great tool, either from the [**scratch**](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from its [**templates**](https://bcnactivarepositorio.github.io/templateBootstrap/).
+
+  * *Technologies used*: *HTML, CSS & BOOTSTRAP*.
+
+But I keep learning the basics, such as CSS, in order to place your bones behind [**bars**](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [**planes**](https://toursbyme.github.io/planes/).
+
+  * *Technologies used*: *HTML, CSS & (TRANSFORM & ANIMATION)*.
 
 >“Where is click, there it is JavaScript.”
 >(Omar Montes del Rio)
