@@ -58,7 +58,7 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads
 
-Basic [**Html & Css**](https://bcnactivarepositorio.github.io/Basic_Css/){:target="_blank"}
+Basic [**Html & Css**](https://bcnactivarepositorio.github.io/Basic_Css/)
 
 Some [**Grid**](https://bcnactivarepositorio.github.io/grid_3/)
 
