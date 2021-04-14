@@ -106,7 +106,7 @@ If you liked what you saw until now, give us some [**stars**](https://toursbyme.
 
   * *Technologies used*: *HTML, BOOTSTRAP & TYPESCRIPT*.
 
-I <a name="html">here</a> do know what Angular is. *"Prove it Robert!"* Of course. [**Cinemas**](https://naranjito72.github.io/hace-un-cine/movies) get all my attention, but we can always improve a [**bit**](https://bcnactivarepositorio.github.io/ngAgenda/)*
+I do know what Angular is. *"Prove it Robert!"* Of course. [**Cinemas**](https://naranjito72.github.io/hace-un-cine/movies) get all my attention, but we can always improve a [**bit**](https://bcnactivarepositorio.github.io/ngAgenda/)*
 
   * *Technologies used*: *HTML, SCSS, BOOTSTRAP, TYPESCRIPT & ANGULAR*.
 
@@ -122,7 +122,7 @@ My first thought:
 -"*place only the best repositories!*"-
 
 but then: How would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the Bad and the Ugly*.
-
+<a name="html"></a>
 Risky, as it is not what most people expects to see these days, but is all part of the learning curve. Alas, in [**here**](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression. Feel free to explore all my repositories. If you are a technician, you'll understand the code. There are defeats and victories, consoles and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: in all of them.
 
 ***
