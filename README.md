@@ -57,9 +57,9 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 >(Will Muschamp)
 
 IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads. I cataloged the technologies used in every link, so you could skip whichever doesn't fit your needs.
-[**Html**](#html)
+[**Grid**](#grid)
 
-Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/).<a name="html"></a>
+Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/).<a name="grid"></a>
 
   * *Technologies used*: *HTML & CSS*.
 
