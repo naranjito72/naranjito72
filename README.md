@@ -60,15 +60,15 @@ IT recruiters are often regarded by programmers as intruders, officially catalog
 
 Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/)
 
-   **technologies used**: *HTML & CSS*.
+    **technologies used**: *HTML & CSS*.
 
 Some [**Grid**](https://bcnactivarepositorio.github.io/grid_3/)
 
-   **technologies used**: *HTML, CSS & GRID*.
+    **technologies used**: *HTML, CSS & GRID*.
 
 Add some [**Flexbox**](https://toursbyme.github.io/exercise_flex/)
 
-   **technologies used**: *HTML, CSS & FLEXBOX*.
+    **technologies used**: *HTML, CSS & FLEXBOX*.
 
 way better than [**this**](https://bcnactivarepositorio.github.io/mcBootstrap/)
 
