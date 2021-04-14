@@ -59,7 +59,7 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads. I cataloged the technologies used in every link, so you could skip whichever doesn't fit your needs.
 [**Html**](#html)
 
-Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/).
+Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/).<a name="html"></a>
 
   * *Technologies used*: *HTML & CSS*.
 
@@ -122,7 +122,7 @@ My first thought:
 -"*place only the best repositories!*"-
 
 but then: How would you, dear next boss, know if I am improving?. So there it is, all, *The Good, the Bad and the Ugly*.
-<a name="html"></a>
+
 Risky, as it is not what most people expects to see these days, but is all part of the learning curve. Alas, in [**here**](https://github.com/bcnActivaRepositorio) I leave you what I consider a step further in my progression. Feel free to explore all my repositories. If you are a technician, you'll understand the code. There are defeats and victories, consoles and hours of debugs, StackOverflow answers and *my own, my precious* ones, but plenty of :heart: in all of them.
 
 ***
