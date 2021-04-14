@@ -60,9 +60,17 @@ IT recruiters are often regarded by programmers as intruders, officially catalog
 
 Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/)
 
+  * **technologies used**: *HTML & CSS*.
+
 Some [**Grid**](https://bcnactivarepositorio.github.io/grid_3/)
 
-Add some [**Flexbox**](https://bcnactivarepositorio.github.io/mcBootstrap/)... Yes, I got better than that! have a [**look**](https://toursbyme.github.io/exercise_flex/)
+  * **technologies used**: *HTML, CSS & GRID*.
+
+Add some [**Flexbox**](https://toursbyme.github.io/exercise_flex/)
+
+  * **technologies used**: *HTML, CSS & FLEXBOX*.
+
+way better than [**this**](https://bcnactivarepositorio.github.io/mcBootstrap/)
 
 And yes, **I** also reached **THE** level [**24**](https://github.com/ToursByMe/level24_froggy)!!  *N.of A.(A geek joke for developers!)*
 
