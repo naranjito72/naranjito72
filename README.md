@@ -56,19 +56,19 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 >“Recruiting is not an exact science.”
 >(Will Muschamp)
 
-IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads
+IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads.
 
 Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/)
 
-  * **technologies used**: *HTML & CSS*.
+   **technologies used**: *HTML & CSS*.
 
 Some [**Grid**](https://bcnactivarepositorio.github.io/grid_3/)
 
-  * **technologies used**: *HTML, CSS & GRID*.
+   **technologies used**: *HTML, CSS & GRID*.
 
 Add some [**Flexbox**](https://toursbyme.github.io/exercise_flex/)
 
-  * **technologies used**: *HTML, CSS & FLEXBOX*.
+   **technologies used**: *HTML, CSS & FLEXBOX*.
 
 way better than [**this**](https://bcnactivarepositorio.github.io/mcBootstrap/)
 
