@@ -57,7 +57,7 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 >(Will Muschamp)
 
 IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads. I cataloged the technologies used in every link, so you could skip whichever doesn't fit your needs.
-[**Grid**](#grid)
+[**Grid and FlexBox**](#grid), [**Bootstrap**](#bootstrap), [**Animation & Transform**](#transform), [**JavaScript**](#javascript) and [**Angular**](#angular).
 
 Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/).<a name="grid"></a>
 
@@ -73,19 +73,19 @@ Add some [**Flexbox**](https://toursbyme.github.io/exercise_flex/), way better t
 
 
 
-Yeap, **I** also reached **THE** top level of [**FlexBox Froggy**](https://flexboxfroggy.com/) and [**here**](https://github.com/ToursByMe/level24_froggy) is my solution!!  *N.of A.(A geek joke for developers!)*.
+Yeap, **I** also reached **THE** top level of [**FlexBox Froggy**](https://flexboxfroggy.com/) and [**here**](https://github.com/ToursByMe/level24_froggy) is my solution!!  *N.of A.(A geek joke for developers!)*.<a name="bootstrap"></a>
 
 All came together for the first time, [**look**](https://toursbyme.github.io/spotify_exercise/).
 
   * *Technologies used*: *HTML, CSS & FLEXBOX*.
 
-Bootstrap is a great tool, either from the [**scratch**](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from its [**templates**](https://bcnactivarepositorio.github.io/templateBootstrap/).
+Bootstrap is a great tool, either from the [**scratch**](https://toursbyme.github.io/bootstrapPortfolio/#myServices) or from its [**templates**](https://bcnactivarepositorio.github.io/templateBootstrap/).<a name="transform"></a>
 
   * *Technologies used*: *HTML, CSS & BOOTSTRAP*.
 
 But I should not forget the basics, such as CSS, in order to place your bones behind [**bars**](https://bcnactivarepositorio.github.io/itAcademySass/) or give you a sky full of [**planes**](https://toursbyme.github.io/planes/).
 
-  * *Technologies used*: *HTML, CSS & (TRANSFORM & ANIMATION)*.
+  * *Technologies used*: *HTML, CSS & (TRANSFORM & ANIMATION)*.<a name="javascript"></a>
 
 >“Where is click, there it is JavaScript.”
 >(Omar Montes del Rio)
@@ -100,7 +100,7 @@ Then things start to get a bit less messy...Wanna know your Zodiac [**sign**](ht
 
 If you liked what you saw until now, give us some [**stars**](https://toursbyme.github.io/howManyHearts-/).
 
-  * *Technologies used*: *HTML, BOOTSTRAP, SASS & JAVASCRIPT*.
+  * *Technologies used*: *HTML, BOOTSTRAP, SASS & JAVASCRIPT*.<a name="angular"></a>
 
 [**OOP**](https://en.wikipedia.org/wiki/Object-oriented_programming) comes after algorithm. I am not the best person to give you a theoretical lecture of it, better and brighter people around the globe do, but I can show  **you** how to start to interact with [**it**](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
 
