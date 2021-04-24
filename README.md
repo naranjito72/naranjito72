@@ -148,7 +148,7 @@ Risky, as it is not what most people expects to see these days, but is all part 
 
 ### Contact Me
 
-:mailbox_with_mail: **theclick36@gmail.com**
+:mailbox_with_mail: **iamgonnabeyournextemployee@gmail.com**
 
 :briefcase: [**Linkedin**](https://www.linkedin.com/in/theclick36/)
 
