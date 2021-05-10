@@ -102,7 +102,7 @@ If you liked what you saw until now, give us some [**stars**](https://toursbyme.
 
   * *Technologies used*: *HTML, BOOTSTRAP, SASS & JAVASCRIPT*.<a name="angular"></a>
 
-[**OOP**](https://en.wikipedia.org/wiki/Object-oriented_programming) comes after algorithm. I am not the best person to give you a theoretical lecture of it, better and brighter people around the globe do, but I can show  **you** how to start to interact with [**it**](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/).
+[**OOP**](https://en.wikipedia.org/wiki/Object-oriented_programming) comes after algorithm. I am not the best person to give you a theoretical lecture of it, better and brighter people around the globe do, but I can show  **you** how  to interact with [**it**](https://bcnactivarepositorio.github.io/pooMidnight-theRaces/) or make the *DOM* interact with [**it**](https://bcnactivarepositorio.github.io/calendarioJavaScript/)
 
   * *Technologies used*: *HTML, BOOTSTRAP & TYPESCRIPT*.
 
