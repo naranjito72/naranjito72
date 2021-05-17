@@ -59,6 +59,10 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/vsc.png" height="50" alt="Visual studio code">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/atom.png" height="50" alt="Atom">   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/sublime.png" height="50" alt="Sublime">
 
+> "Git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space"
+> (Isaac Wolkerstorfer)
+
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/git.png" height="50" alt="Git">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/github.png" height="50" alt="GitHub">
 
 ***
 *P.S* Here are the links to my CV in PDF. The [**English**](https://github.com/naranjito72/naranjito72/blob/main/cvs/robert_En.pdf) one and the [**Castellano**](https://github.com/naranjito72/naranjito72/blob/main/cvs/robert_Sp.pdf) one. You'll find the download button on the right corner on top of the document.
