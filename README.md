@@ -64,6 +64,11 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/git.png" height="50" alt="Git">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/github.png" height="50" alt="GitHub">
 
+> "Automation does not need to be our enemy"
+> (John F Kennedy)
+
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/gulp.png" height="50" alt="Gulp"> 
+
 ***
 *P.S* Here are the links to my CV in PDF. The [**English**](https://github.com/naranjito72/naranjito72/blob/main/cvs/robert_En.pdf) one and the [**Castellano**](https://github.com/naranjito72/naranjito72/blob/main/cvs/robert_Sp.pdf) one. You'll find the download button on the right corner on top of the document.
 ***
