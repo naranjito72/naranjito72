@@ -51,6 +51,8 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 
 ***
+*P.S* Here are the links to my CV in PDF. The [**English**](https://github.com/naranjito72/naranjito72/blob/main/cvs/robert_En.pdf) one and the [**Castellano**](https://github.com/naranjito72/naranjito72/blob/main/cvs/robert_Sp.pdf) one. You'll find the download button on the right corner on top of the document.
+***
 ### A link of help to recruiters
 
 >“Recruiting is not an exact science.”
