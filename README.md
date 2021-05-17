@@ -47,7 +47,17 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 > "Make it simple, but significant"
 > (Don Draper)
 
-<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/figma.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/adobeXd.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/illustrator.png" height="50"> <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/photoshop.png" height="50">   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/xmind.png" height="50">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/pencil.png" height="50">    
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/figma.png" height="50" alt="Figma">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/adobeXd.png" height="50" alt="AdobeXd">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/illustrator.png" height="50" alt="Illustrator"> <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/photoshop.png" height="50" alt="Photoshop">   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/xmind.png" height="50" alt="Xmind">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/pencil.png" height="50" alt="pencil">    
+
+> "35% of the internet is powered by WordPress"
+> (Brenda Barron)
+
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/wordpress.png" height="50" alt="WordPress">
+
+> "There is no rule on how to write. Sometimes it comes easily and perfectly: sometimes it’s like drilling rock and then blasting it out with charges."
+> (Ernest Hemingway)
+
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/vsc.png" height="50" alt="Visual studio code">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/atom.png" height="50" alt="Atom">   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/sublime.png" height="50" alt="Sublime">
 
 
 ***
