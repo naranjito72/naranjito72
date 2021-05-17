@@ -42,7 +42,7 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
 > "*There is a lot of back end work in programming that the clients never see!.*"
 
-   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mongodb.png" height="65">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/express.png" height="65">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mysql.png" height="65">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/leaflet.png" height="65">
+   <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mongodb.png" height="65" alt="MongoDb">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/node.png" height="65" alt="NodeJs">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/express.png" height="65" alt="Express">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/mysql.png" height="65" alt="MySQL">  <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/leaflet.png" height="65" alt="leaflet">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/postman.png" height="65" alt="postman">
 
 > "Make it simple, but significant"
 > (Don Draper)
@@ -67,7 +67,12 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 > "Automation does not need to be our enemy"
 > (John F Kennedy)
 
-<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/gulp.png" height="50" alt="Gulp"> 
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/gulp.png" height="50" alt="Gulp">
+
+> "Motivation is what gets you started. Habit is what keeps you going"
+> (Jim Ryun)
+
+<img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/w3schools.png" height="50" alt="w3schools">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/stackOverflow.png" height="50" alt="stackOverflow">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/codewars.png" height="50" alt="codewars">    <img src ="https://raw.githubusercontent.com/naranjito72/naranjito72/main/img/cssTrics.png" height="50" alt="cssTricks">
 
 ***
 *P.S* Here are the links to my CV in PDF. The [**English**](https://github.com/naranjito72/naranjito72/blob/main/cvs/robert_En.pdf) one and the [**Castellano**](https://github.com/naranjito72/naranjito72/blob/main/cvs/robert_Sp.pdf) one. You'll find the download button on the right corner on top of the document.
