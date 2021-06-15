@@ -83,7 +83,7 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 >(Will Muschamp)
 
 IT recruiters are often regarded by programmers as intruders, officially cataloged, like Gandalf, as *"disturbers of the peace"*. But without them, without you, we all would be programming to ourselves. So here are the links to the visual part of my repositories. They go from the very beginning to my last uploads. I cataloged the technologies used in every link, so you could skip whichever doesn't fit your needs.
-[**Grid and FlexBox**](#grid), [**Bootstrap**](#bootstrap), [**Animation & Transform**](#transform), [**JavaScript**](#javascript) and [**Angular**](#angular).
+[**Grid and FlexBox**](#grid), [**Bootstrap**](#bootstrap), [**Animation & Transform**](#transform), [**JavaScript**](#javascript) and [**Angular**](#angular). Most recently I started to work with [**Jasmine**](#jasmine)
 
 Basic [**Html & Css**](https://naranjito72.github.io/basicHtmlCss/).<a name="grid"></a>
 
@@ -134,9 +134,13 @@ If you liked what you saw until now, give us some [**stars**](https://toursbyme.
 
 I do know what Angular is. *"Prove it Robert!"* Of course. [**Cinemas**](https://naranjito72.github.io/hace-un-cine/movies) get all my attention, but we can always improve a [**bit**](https://bcnactivarepositorio.github.io/ngAgenda/)*
 
-  * *Technologies used*: *HTML, SCSS, BOOTSTRAP, TYPESCRIPT & ANGULAR*.
+  * *Technologies used*: *HTML, SCSS, BOOTSTRAP, TYPESCRIPT & ANGULAR*.<a name="jasmine"></a>
 
 *To technicians and developers: those are Angular apps, and yes, they've been deployed but not in Firebase. So extra point, isn't? :wink:
+
+I know. Three exercises don't make me an expert, but it does indicates that, at least, I know what an unit test is. [**TDD**](https://en.wikipedia.org/wiki/Test-driven_development) (dear recruiter, keep those three letters in mind when asking for unit testing!) still not my natural habitat, but is my goal. So [**one**](https://naranjito72.github.io/jasmineTest/) and [**two**](https://naranjito72.github.io/jasmineThree/) for the recruiters. [**Last**](https://github.com/naranjito72/jasmineTestTwo) one for the road and technicians.
+
+  * *Technologies used:* *Jasmine*
 
 ### A word to developers
 
