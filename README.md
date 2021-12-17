@@ -1,6 +1,7 @@
 ### Hello :wave:, I'm Robert Garcia
 
   * :technologist: I am **your** next front-end.
+  * :detective: I :blue_heart: back-end.
   * :books: Self-taught Junior Developer.
   * :point_right: Committed to make an IT career.
   * :heart: Love programming and layouts.
