@@ -28,7 +28,7 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
   * [___Blossh___](https://blossh.com) cookbook [recipe](https://proyecto-rob-y-dan.herokuapp.com/test/#/) (*use users end point to try out. Work in progress*)
 
-:seedling: Actively engaged with **TypeScript** & **Angular**
+:seedling: Actively engaged with **TypeScript**, **Angular**, **NodeJs** & **Nest**
 
 
 ### The things "*I*" do for love.
