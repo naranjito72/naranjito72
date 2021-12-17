@@ -25,6 +25,8 @@ This is *not* a CV but a small presentation, an introduction to myself and a por
 
   * My own [TODO](https://bcnactivarepositorio.github.io/ngAgenda/) **APP**.
 
+  * [___Blossh___](https://blossh.com) cookbook [recipe](https://proyecto-rob-y-dan.herokuapp.com/test/#/) (*use users end point to try out. Work in progress*)
+
 :seedling: Actively engaged with **TypeScript** & **Angular**
 
 
