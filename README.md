@@ -145,6 +145,11 @@ I know. Three exercises don't make me an expert, but it does indicates that, at 
 
   * *Technologies used:* *Jasmine*
 
+I'd open the back door. Although my eyes are always looking through design, the back-end is a world of beauty by itself. What happens when you click over that beautiful button? How some code lines make possible the communication between your phone and a database? Did you ever wonder how your mum gets all the images from your trips?
+To the people who is not use to, [here](https://shop-mongodb-rgm.herokuapp.com/test/) I'll leave a little interface to play with the endpoints. To technicians, [this](https://github.com/backEndLaVioleta/shopDb) will be way more interesting.
+
+  * *Technologies used:* *NodeJs, NestJs, Swagger, TypeScript*
+
 ### A word to developers
 
 >“It’s through mistakes that you actually can grow. You have to get bad in order to get good.”
